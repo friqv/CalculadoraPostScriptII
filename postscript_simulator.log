@@ -1,0 +1,17 @@
+14:30:26.872 [ERROR] [PostScript] - Error: Token no reconocido: A
+14:30:26.877 [INFO ] [Main] - Resultado: 0.0
+14:43:25.942 [ERROR] [PostScript] - Error: Token no reconocido: mul
+14:43:25.946 [INFO ] [Main] - Resultado: 0.0
+14:45:08.853 [ERROR] [PostScript] - Error: Token no reconocido: add
+14:45:08.853 [INFO ] [Main] - Resultado: 0.0
+14:45:20.209 [ERROR] [PostScript] - Error: Token no reconocido: add
+14:45:20.209 [INFO ] [Main] - Resultado: 0.0
+14:45:37.859 [ERROR] [PostScript] - Error: Token no reconocido: add
+14:45:37.859 [INFO ] [Main] - Resultado: 0.0
+14:46:32.756 [ERROR] [PostScript] - Error: Token no reconocido: add
+14:46:32.760 [INFO ] [Main] - Resultado: 0.0
+14:48:42.140 [ERROR] [PostScript] - Error: Token no reconocido: mul
+14:48:42.141 [INFO ] [Main] - Resultado: 0.0
+14:50:52.215 [ERROR] [PostScript] - Error: Token no reconocido: mul
+14:50:52.215 [INFO ] [Main] - Resultado: 0.0
+14:54:35.862 [INFO ] [Main] - Resultado: 5.0
